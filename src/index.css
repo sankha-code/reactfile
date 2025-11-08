@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding:0px ;
+  box-sizing:border-box;
+}
+body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  
+}
+.parent{
+  color:white;
+  border:px solid rgb(255, 255, 255);
+  background-color: brown;
+  padding: 20px;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  margin: 50px;
+  max-height: 1200vh;
+  width: 90%;
+  border-radius: 10px;
+}
+.child{
+  border:px solid rgb(244, 243, 243);
+  padding: 20px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  width: 90%;
+  font-weight: bold;
+  color: aliceblue;
+  background-color: rgb(0, 25, 123);
+  border-radius: 10px;
+  margin: 50px;
+}
+h1{
+  color: rgb(183, 189, 194);
+}
